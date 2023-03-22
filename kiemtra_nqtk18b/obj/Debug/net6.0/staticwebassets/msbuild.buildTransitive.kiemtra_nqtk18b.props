@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\kiemtra_nqtk18b.props" />
+</Project>

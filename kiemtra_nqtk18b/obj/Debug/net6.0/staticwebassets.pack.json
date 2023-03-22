@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\kiemtra_nqtk18b\\kiemtra_nqtk18b\\wwwroot\\images\\7c311d4e-bda5-41aa-a8d1-4aca80079523.jpg",
+      "PackagePath": "staticwebassets\\images\\7c311d4e-bda5-41aa-a8d1-4aca80079523.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.kiemtra_nqtk18b.props",
+      "PackagePath": "build\\kiemtra_nqtk18b.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.kiemtra_nqtk18b.props",
+      "PackagePath": "buildMultiTargeting\\kiemtra_nqtk18b.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.kiemtra_nqtk18b.props",
+      "PackagePath": "buildTransitive\\kiemtra_nqtk18b.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.kiemtra_nqtk18b.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

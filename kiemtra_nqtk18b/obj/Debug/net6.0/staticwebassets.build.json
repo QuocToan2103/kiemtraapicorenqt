@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "AtJUVoTNhAZi65GiJOwjeoZGHu7Az2Ty3Wnk0rIsp6Y=",
+  "Source": "kiemtra_nqtk18b",
+  "BasePath": "_content/kiemtra_nqtk18b",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "kiemtra_nqtk18b\\wwwroot",
+      "Source": "kiemtra_nqtk18b",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\kiemtra_nqtk18b\\kiemtra_nqtk18b\\wwwroot\\",
+      "BasePath": "_content/kiemtra_nqtk18b",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\kiemtra_nqtk18b\\kiemtra_nqtk18b\\wwwroot\\images\\7c311d4e-bda5-41aa-a8d1-4aca80079523.jpg",
+      "SourceId": "kiemtra_nqtk18b",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\kiemtra_nqtk18b\\kiemtra_nqtk18b\\wwwroot\\",
+      "BasePath": "_content/kiemtra_nqtk18b",
+      "RelativePath": "images/7c311d4e-bda5-41aa-a8d1-4aca80079523.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7c311d4e-bda5-41aa-a8d1-4aca80079523.jpg"
+    }
+  ]
+}
